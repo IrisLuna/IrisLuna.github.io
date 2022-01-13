@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14 dic 2021, 12:16:36
+    Author     : Iria
+*/
+h1{
+   color: #004e71; 
+}
+h2{
+    color: gray;
+    font-family: Arial;
+    font-style: italic
+    ;
+}
+.titulo{
+    color: white;
+    background-color: #004e71;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+.cuadro{
+    color: white;
+    background-color: #60b8ad;
+    text-align: left;
+}
+td{
+    border-color: #004e71;
+}
+#nombre{
+    text-align: right;
+    color: gray;
+}
